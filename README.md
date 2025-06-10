@@ -15,7 +15,9 @@ This is a simple and responsive Contact Us page built with React.js. It features
 🛠️ Technologies Used
 React.js (Functional Components)
 
-![SL-080420-33360-29]([https://github.com/user-attachments/assets/dbe52d88-ea51-4d57-9445-7da62d6c908b](https://github.com/anishrajpoot/React_project_2/blob/main/Project-2/Screenshot%202025-06-10%20161734.png?raw=true))
+
+
+![Project-2]()
 
 
 
