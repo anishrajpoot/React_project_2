@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  
+  background-color: beige;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 20px 40px;
+}
+
+
+.header img{
+  width: 100px;
+  height: 100px;
+}
+
+ul {
+  display: flex;
+  gap: 30px;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  
+}
+
+li {
+  margin: 8px 0;
+  color: black; 
+
+}
