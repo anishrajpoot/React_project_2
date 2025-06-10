@@ -15,6 +15,4 @@ This is a simple and responsive Contact Us page built with React.js. It features
 🛠️ Technologies Used
 React.js (Functional Components)
 
-HTML & CSS
-
-Optional: EmailJS/Formspree integration
+https://github.com/anishrajpoot/React_project_2/blob/main/Project-2/Screenshot%202025-06-10%20161734.png?raw=true
